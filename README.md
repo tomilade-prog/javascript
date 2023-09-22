@@ -1,4 +1,4 @@
 # javascript
- My name :olugbemi tomilade,height and country
+ My name : olugbemi tomilade,height and country
  zuri training
  
